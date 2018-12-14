@@ -1,0 +1,17 @@
+{
+  "name": "lalymania",
+  "version": "1.0.0",
+  "description": "RESTServer para Lalymania ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cristian Aviles",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.16",
+    "mongoose-unique-validator": "^2.0.2"
+  }
+}
